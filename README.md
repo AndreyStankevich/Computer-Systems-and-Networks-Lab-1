@@ -1,5 +1,6 @@
 # MPP-ThreadPool
 Modern Programming Platforms, Lab #1
+
 Create class on C# which:
 - named TaskQueue and realize pool thread logic;
 - creates specifed number of pool threads in constuctor;
